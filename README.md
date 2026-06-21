@@ -8,7 +8,7 @@ This is not a generic PDF chatbot. The goal is to build a financial document int
 
 ## Project Overview
 
-Financial reports are long, dense, and difficult to analyze manually. This project uses RAG to make Apple's 10-K annual report easier to query through natural-language questions.
+Financial reports are long, dense, and difficult to analyze manually. This project uses RAG to make Apple's 10-K annual report easier to query through natural-language questions
 
 The assistant follows a manual RAG pipeline:
 
